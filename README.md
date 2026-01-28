@@ -60,5 +60,5 @@ I conducted a deep dive into misclassified samples to understand model limitatio
 
 ## 👤 Author
 **Sara Iqbal**
-* [LinkedIn Profile](Insert Your Link)
+* [LinkedIn Profile]((https://www.linkedin.com/in/saraiqbaldata0602/))
 * [GitHub Profile](https://github.com/sara-iqbal)
